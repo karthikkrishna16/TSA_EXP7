@@ -1,5 +1,7 @@
 # Ex.No: 07 AUTO REGRESSIVE MODEL
-### Date: 
+### Date: 23.09.2025
+### TH KARTHIK KRISHNA 
+### 212223240067
 
 ### AIM:
 To Implement an Auto Regressive Model using Python
